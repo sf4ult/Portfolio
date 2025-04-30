@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "durge5h Portfolio"
+  title: "Chanchal Portfolio"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo1.png"
@@ -128,9 +128,10 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Durgesh."
-    subtitle: "I break things for the web"
-    content: "A passionate security engineer. I tend to break modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    title: "Chanchal."
+    subtitle: "I Elevate the architecture"
+    content: "A passionate Planning engineer. A dedicated civil engineer specializing in project planning. I streamline industrial construction schedules to ensure steel plant infrastructure is built efficiently, safely, and on time.
+"
     image: /images/logo1.png
     bottomImage:
       enable: true
